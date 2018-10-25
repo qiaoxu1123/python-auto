@@ -1,0 +1,13 @@
+[email]
+smtp_server = smtp.qq.com
+port = 465
+sender = 544990162@qq.com
+psw = haotest123.
+
+;收件人多个时，中间用逗号隔开,如'a@xx.com,b@xx.com'
+receiver = 544990162@qq.com
+
+[testServer]
+url = https://baidu.com
+port = 8080
+
