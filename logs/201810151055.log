@@ -1,0 +1,94 @@
+2018-10-15 10:55:18,118 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-15 10:55:18,118 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/upload/forum.php
+2018-10-15 10:55:20,555 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-15 10:55:27,448 - BrowserEngine - INFO - Open url: http://127.0.0.1/upload/forum.php
+2018-10-15 10:55:28,575 - BrowserEngine - INFO - Maximize the current window.
+2018-10-15 10:55:28,577 - BrowserEngine - INFO - Set implictily wait 10 seconds.
+2018-10-15 10:55:41,259 - BasePage - INFO - Input success
+2018-10-15 10:55:43,430 - BasePage - INFO - Input success
+2018-10-15 10:55:45,524 - BasePage - INFO - The element 登录 was clicked.
+2018-10-15 10:56:00,368 - BasePage - INFO - The element 默认板块 was clicked.
+2018-10-15 10:56:12,681 - BasePage - INFO - Input success
+2018-10-15 10:56:14,873 - BasePage - INFO - Input success
+2018-10-15 10:56:17,037 - BasePage - INFO - The element 发表帖子 was clicked.
+2018-10-15 10:56:33,715 - BasePage - INFO - The element  was clicked.
+2018-10-15 10:56:35,985 - BasePage - INFO - Input success
+2018-10-15 10:56:38,068 - BasePage - INFO - The element 参与/回复主题 was clicked.
+2018-10-15 10:56:41,555 - BasePage - INFO - The element 退出 was clicked.
+2018-10-15 10:57:15,084 - BasePage - ERROR - <pageobjects.BBS_001_homepage.HomePage object at 0x000001E208291978> 页面中未能找到('css selector', '#um p:nth-child(2) a:nth-child(18)')元素
+2018-10-15 10:57:15,085 - BasePage - ERROR - Faild to click the element with 'NoneType' object has no attribute 'text'
+2018-10-15 10:57:18,088 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-15 10:57:18,089 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/upload/forum.php
+2018-10-15 10:57:20,735 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-15 10:57:27,792 - BrowserEngine - INFO - Open url: http://127.0.0.1/upload/forum.php
+2018-10-15 10:57:28,963 - BrowserEngine - INFO - Maximize the current window.
+2018-10-15 10:57:28,967 - BrowserEngine - INFO - Set implictily wait 10 seconds.
+2018-10-15 10:57:41,977 - BasePage - INFO - Input success
+2018-10-15 10:57:44,116 - BasePage - INFO - Input success
+2018-10-15 10:57:46,211 - BasePage - INFO - The element 登录 was clicked.
+2018-10-15 10:58:00,545 - BasePage - INFO - The element 默认板块 was clicked.
+2018-10-15 10:58:12,929 - BasePage - INFO - The element  was clicked.
+2018-10-15 10:58:15,069 - BasePage - INFO - The element 删除 was clicked.
+2018-10-15 10:58:18,372 - BasePage - INFO - The element 确定 was clicked.
+2018-10-15 10:58:31,925 - BasePage - INFO - The element 管理中心 was clicked.
+2018-10-15 10:58:33,359 - BasePage - INFO - Input success
+2018-10-15 10:58:35,458 - BasePage - INFO - The element  was clicked.
+2018-10-15 10:59:05,026 - BasePage - INFO - The element 论坛 was clicked.
+2018-10-15 10:59:08,381 - BasePage - INFO - The element 添加新版块 was clicked.
+2018-10-15 10:59:10,698 - BasePage - INFO - Input success
+2018-10-15 10:59:12,787 - BasePage - INFO - The element  was clicked.
+2018-10-15 10:59:16,215 - BasePage - INFO - The element 退出 was clicked.
+2018-10-15 10:59:28,656 - BasePage - INFO - Input success
+2018-10-15 10:59:30,831 - BasePage - INFO - Input success
+2018-10-15 10:59:32,971 - BasePage - INFO - The element 登录 was clicked.
+2018-10-15 10:59:42,161 - BasePage - INFO - The element Discuz! was clicked.
+2018-10-15 10:59:55,803 - BasePage - INFO - The element 新版块名称 was clicked.
+2018-10-15 11:00:07,688 - BasePage - INFO - Input success
+2018-10-15 11:00:09,955 - BasePage - INFO - Input success
+2018-10-15 11:00:12,122 - BasePage - INFO - The element 发表帖子 was clicked.
+2018-10-15 11:00:28,392 - BasePage - INFO - The element  was clicked.
+2018-10-15 11:00:30,707 - BasePage - INFO - Input success
+2018-10-15 11:00:32,821 - BasePage - INFO - The element 参与/回复主题 was clicked.
+2018-10-15 11:00:39,274 - BasePage - INFO - The element 退出 was clicked.
+2018-10-15 11:00:58,150 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-15 11:00:58,152 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/upload/forum.php
+2018-10-15 11:01:00,871 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-15 11:01:07,922 - BrowserEngine - INFO - Open url: http://127.0.0.1/upload/forum.php
+2018-10-15 11:01:09,085 - BrowserEngine - INFO - Maximize the current window.
+2018-10-15 11:01:09,086 - BrowserEngine - INFO - Set implictily wait 10 seconds.
+2018-10-15 11:01:21,140 - BasePage - INFO - Input success
+2018-10-15 11:01:23,312 - BasePage - INFO - Input success
+2018-10-15 11:01:25,405 - BasePage - INFO - The element 登录 was clicked.
+2018-10-15 11:01:40,228 - BasePage - INFO - Input success
+2018-10-15 11:01:42,312 - BasePage - INFO - The element  was clicked.
+2018-10-15 11:01:47,596 - BasePage - INFO - The element qiaoxu111 was clicked.
+2018-10-15 11:01:50,727 - SouSuo - INFO - success
+2018-10-15 11:01:50,727 - SouSuo - INFO - success
+2018-10-15 11:01:50,847 - BasePage - INFO - The element 退出 was clicked.
+2018-10-15 11:02:04,003 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-15 11:02:04,004 - BrowserEngine - INFO - The test server url is: http://127.0.0.1/upload/forum.php
+2018-10-15 11:02:06,426 - BrowserEngine - INFO - Starting Chrome browser.
+2018-10-15 11:02:13,653 - BrowserEngine - INFO - Open url: http://127.0.0.1/upload/forum.php
+2018-10-15 11:02:14,800 - BrowserEngine - INFO - Maximize the current window.
+2018-10-15 11:02:14,800 - BrowserEngine - INFO - Set implictily wait 10 seconds.
+2018-10-15 11:02:26,613 - BasePage - INFO - Input success
+2018-10-15 11:02:28,817 - BasePage - INFO - Input success
+2018-10-15 11:02:30,949 - BasePage - INFO - The element 登录 was clicked.
+2018-10-15 11:02:46,281 - BasePage - INFO - The element 默认板块 was clicked.
+2018-10-15 11:02:58,735 - BasePage - INFO - The element  was clicked.
+2018-10-15 11:03:13,085 - BasePage - INFO - The element 发起投票 was clicked.
+2018-10-15 11:03:26,432 - BasePage - INFO - Input success
+2018-10-15 11:03:27,613 - BasePage - INFO - Input success
+2018-10-15 11:03:28,780 - BasePage - INFO - Input success
+2018-10-15 11:03:30,012 - BasePage - INFO - Input success
+2018-10-15 11:03:33,093 - BasePage - INFO - The element  was clicked.
+2018-10-15 11:03:35,267 - BasePage - INFO - The element 发起投票 was clicked.
+2018-10-15 11:03:51,119 - BasePage - INFO - The element  was clicked.
+2018-10-15 11:03:53,293 - BasePage - INFO - The element 提交 was clicked.
+2018-10-15 11:04:06,960 - BasePage - INFO - The element 1.  谢娜 was print.
+2018-10-15 11:04:07,061 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 11:04:07,114 - BasePage - INFO - The element 2.  范冰冰 was print.
+2018-10-15 11:04:07,168 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 11:04:07,221 - BasePage - INFO - The element 3.  刘亦菲 was print.
+2018-10-15 11:04:07,275 - BasePage - INFO - The element 100.00% (1) was print.
+2018-10-15 11:04:07,335 - BasePage - INFO - The element 退出 was clicked.

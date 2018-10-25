@@ -1,8 +1,0 @@
-2018-10-23 20:40:50,424 - AppiumDedired - INFO - 设备系统platformName:Android
-2018-10-23 20:40:50,426 - AppiumDedired - INFO - 设备系统版本platformVersion:Android
-2018-10-23 20:40:50,426 - AppiumDedired - INFO - 设备名称deviceName:127.0.0.1:62001
-2018-10-23 20:40:50,426 - AppiumDedired - INFO - 应用程序包名:com.example.todolist
-2018-10-23 20:40:50,426 - AppiumDedired - INFO - app路径:D:\work\python-appium/app/todolist.apk
-2018-10-23 20:40:50,426 - AppiumDedired - INFO - 不需要每次都安装apk, noReset:Ture
-2018-10-23 20:40:50,426 - AppiumDedired - INFO - 启动：com.example.todolist.LoginActivity
-2018-10-23 20:40:50,426 - AppiumDedired - INFO - 每次运行新建session:Ture
