@@ -1,3 +1,0 @@
-import requests
-
-help(requests)
