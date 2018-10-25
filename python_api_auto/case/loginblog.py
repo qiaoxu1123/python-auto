@@ -1,7 +1,7 @@
-# coding:utf-8
 import requests
 import unittest
-import json
+from common.logger import Log
+
 
 class Test_login(unittest.TestCase):
     url = 'https://passport.womai.com/login/login.do'
@@ -26,8 +26,6 @@ class Test_login(unittest.TestCase):
         "mid": "0",
         "returnUrl": "http://www.womai.com/index-31000-0.htm"
         }
-
-
     def test_login(self):
         response = requests.post(self.url, headers=self.headers, data=self.payload)
         json_data = response.json()
@@ -36,9 +34,5 @@ class Test_login(unittest.TestCase):
         # 断言：测试结果与期望结果对比
         self.assertEqual('2', json_data['msg'])
 
-        # {"msg":"2",}
-
 if __name__ == '__main__':
     unittest.main()
-
-

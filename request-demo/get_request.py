@@ -1,19 +1,19 @@
 # coding:utf-8
 import requests
 import json
+
 URL = 'https://api.github.com'
 
-def build_url(endpoint):
-    # 主要作用拼接接口请求地址
+def bulid_url(endpoint):
     return '/'.join([URL, endpoint])
 
 def better_output(json_str):
-    return json.dumps(json.loads(json_str), indent=4)
+    return json.dumps(json.loads(json_str) ,indent=4)
 
 def request_method():
-    response = requests.get(build_url('users/qiaoxu1123'))
-    # response = requests.patch(build_url('users'), auth=('qiaoxu1123', 'haotest123456789haotest'), json={'company': 'haotest'})
+    response = requests.get(bulid_url('users/haotest'))
     print(better_output(response.text))
 
-if __name__  == "__main__" :
+if __name__ == '__main__':
     request_method()
+
